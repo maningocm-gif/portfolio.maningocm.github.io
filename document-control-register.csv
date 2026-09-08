@@ -1,0 +1,6 @@
+Document ID,Document,Type,Discipline,Revision,Status,Priority,Owner,Due Date,Notes
+DOC-ME-001,HVAC Equipment Schedule,Schedule,Mechanical,2,Approved,High,J. Reyes,2026-09-12,Issued for construction
+DOC-ME-002,Pump Datasheet,Datasheet,Mechanical,1,Under Review,Critical,M. Santos,2026-09-14,Awaiting technical evaluation
+DOC-HS-003,Risk Assessment - Site Works,Report,HSE,1,Pending Review,Critical,R. Garcia,2026-09-15,Priority review
+DOC-PR-004,Material Submittal - Steel Pipes,Material Submittal,Procurement,0,Under Review,High,A. Cruz,2026-09-16,For procurement review
+DOC-AR-005,Architectural Floor Plan,Drawing,Architectural,3,Approved,Medium,L. Dela Cruz,2026-09-14,Reviewed
